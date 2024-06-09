@@ -12,7 +12,7 @@ const Resume = () =>{
 
             <div className="timeline__item">
                 <i className="icon-graduation"></i>
-                <span className="timeline__date">2014 - 2018</span>
+                <span className="timeline__date">2018</span>
                 <h3 className="timeline__title">National Senior Certificate</h3>
                 <h4 className="timeline__text">Technical High School Langlaagte</h4>
             </div>
@@ -36,6 +36,13 @@ const Resume = () =>{
                 <span className="timeline__date">2023</span>
                 <h3 className="timeline__title">Foundational C# with Microsoft Certification</h3>
                 <h4 className="timeline__text">freeCodeCamp</h4>
+            </div>
+
+            <div className="timeline__item">
+                <i className="icon-graduation"></i>
+                <span className="timeline__date">2024</span>
+                <h3 className="timeline__title">Sales Assistant (General)</h3>
+                <h4 className="timeline__text">MSC Business College</h4>
             </div>
         </div>
 
@@ -64,6 +71,20 @@ const Resume = () =>{
                     <li>Implemented CRUD.</li>
                     <li>Utilized Azure libraries like Azure SQL, Azure DevOps, Azure Boards and Azure Portal.</li>
 				    <li>Designed and implemented data manipulation and visualiztion to display the donates in real time.</li>
+
+            </div>
+
+            <div className="timeline__item">
+                <i className="icon-briefcase"></i>
+                <span className="timeline__date">02/2024 - 04/2024</span>
+                <h3 className="timeline__title">Sales Assistant (Trainee)</h3>
+                <h4 className="timeline__text">Shoprite Checkers Ltd Pty</h4>
+
+                    <li>Pull, pack, weigh, and label products based on daily orders.</li>
+                    <li>Ensure all packages are properly packaged and sealed.</li>
+                    <li>Meet the specifics of customer oders in a timely manner.</li>
+                    <li>Monitor product quality and report any problems or discrepancies.</li>
+				    <li>Operate various pieces of equipment (i.e. dolly, pallet wrapper, palletizer and electrical pallet jacks).</li>
 
             </div>
             </div>
