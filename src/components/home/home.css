@@ -13,8 +13,10 @@
     margin-bottom: 1.5rem;
     height: 180px;
     width: 180px;
+    border: 2rem;
     border-radius: 100%;
     box-shadow: 0px 5px 20px 0px var(--text-color);
+    background: linear-gradient(45deg, #ffd800, #ff5520, #750cf2, #0cbcf2);
 }
 
 .home__name{
