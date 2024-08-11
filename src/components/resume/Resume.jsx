@@ -7,9 +7,7 @@ const Resume = () =>{
         <h2 className="section__title">Experience <span>&</span> Education</h2>
 
         <div className="resume__container grid">
-
             <div className="timeline">
-
             <div className="timeline__item">
                 <i className="icon-graduation"></i>
                 <span className="timeline__date">2018</span>
@@ -20,7 +18,7 @@ const Resume = () =>{
             <div className="timeline__item">
                 <i className="icon-graduation"></i>
                 <span className="timeline__date">2023</span>
-                <h3 className="timeline__title">Diploma In Software Development</h3>
+                <h3 className="timeline__title">Diploma In Information Technology in Software Development</h3>
                 <h4 className="timeline__text">Rosebank College</h4>
             </div>
 
